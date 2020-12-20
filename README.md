@@ -1,4 +1,4 @@
-## Your Name
+## Dan Tyler
 
 I am on course to become a full stake Ruby developer and am currently learning the fundamentals of software development with Makers Academy.
 
@@ -66,4 +66,4 @@ During my time in corporate events, I worked closely with marketing teams and wr
 ## Hobbies
 
 - Football - I run a weekly 7 aside game amongst local friends in my area
-- Gaming - A keen gamer new to streaming and creating content on social channels 
+- Gaming - A keen gamer new to streaming and creating content on social channels

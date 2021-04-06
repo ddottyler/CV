@@ -1,6 +1,8 @@
 ## Dan Tyler
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/dan-tyler-97296990/)
+[Overview](#overview) | [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/dan-tyler-97296990/)
+
+## Overview
 
 A full-stack junior web developer.
 

@@ -1,11 +1,26 @@
 ## Dan Tyler
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/dan-tyler-97296990/)
-I am on course to become a full stake Ruby developer and am currently learning the fundamentals of software development with Makers Academy.
 
-Having spent 5 years as a content producer in corporate events, I have recently transitioned to software development, determined to find a new challenge that would develop my personal and professional skills and open up new opportunities for the future.
+A full-stack junior web developer.
 
-On a macro level, software development provides endless career opportunities as an already digital world becomes further digitally engrained. On a micro level, software development provides the opportunity to create, to develop projects from initial conception through to final execution and it offers all the excitement, frustration and reward that comes with challenging problem solving. For these reasons and many more I'm extremely excited by the opportunities ahead.
+Having spent 5 years as a content producer in corporate events, I transitioned to software development in late 2020, determined to find a new challenge that would develop my personal and professional skills and open up new opportunities for the future.
+
+I have recently completed an intensive 12 weeks bootcamp at Makers Academy and have grown from an interested amateur coder into a confident junior developer competent in a variety of languages and frameworks.
+
+## Skills
+
+#### Fast learner
+
+The makers bootcamp was intensive and fast paced with new languages and frameworks being introduced almost weekly. As is highlighted in my projects board below, I successfully learnt and developed my skills in these different technologies rapidly and efficiently.
+
+#### Team player
+
+I have worked in big and small organisations and have always found that the key to success is being a supportive team player who constantly looks to contribute positively in any way possible. This was key in the events world which are extremely deadline driven which often rely on coordination between multiple teams and stakeholder groups. Team work was also a key component of the Makers bootcamp. Daily pair programme and multiple group projects across the 12 weeks has helped me to develop my skills as a collaborative programmer.
+
+#### Attention to detail
+
+During my time in corporate events, I worked closely with marketing teams and wrote a number of articles, all of which required high levels of attention to detail and microscopic proof reading to ensure that everything was ready to be made public. In my short programming career to date, it is clear that this is a skill that will be vitally important for me when putting writing accurate and consistent code.
 
 ## Projects
 
@@ -15,6 +30,32 @@ On a macro level, software development provides endless career opportunities as 
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
+
+**Makers Academy (Jan '21 - March '21)**
+
+I completed a 12 week highly selective Software Development bootcamp (Jan 2021 - Mar 2021)
+
+- Full-stack web development
+- Test Driven Development, with a key emphasis on pair programming
+- Object-oriented programming
+- Experience with MVC framework patterns
+- Independent learning and problem-solving
+
+Current Languages:
+
+- Ruby, Rails, JavaScript, SEQUEL, HTML, CSS
+
+Frameworks/ Libraries used:
+
+- Node.js, Express.js, Ruby on Rails, Sinatra, React, React Native
+
+Databases:
+
+- MongoDB, PostgreSQL
+
+Testing Frameworks:
+
+- RSpec, Jasmine, Jest
 
 **Clarion Events, Gaming** (Jan-2019 to December-2020)  
 _Senior Conference Producer_
@@ -30,28 +71,7 @@ _Senior Conference Producer_
 - Consistently hit and exceeded event revenue targets - setting new revenue records on 6 out of 8 of the last events
 - Worked in coordination with marketing, DS, sponsorship and operations teams to lead meetings and projects
 
-## Skills
-
-#### Team player
-
-I have worked in big and small organisations and have always found that the key to success is being a supportive team player who constantly looks to contribute positively in any way possible. This was key in the events world which are extremely deadline driven which often rely on coordination between multiple teams and stakeholder groups.
-
-#### Fast learner
-
-Having been at my first company for only 4 months, I was given responsibility for the key portfolio because of the aptitude and success that I had demonstrated in the short time I had spent there. This encouraged me to continue to learn and develop my skills and, ultimately, grow the value of the portfolio in the time I was there.
-
-#### Attention to detail
-
-During my time in corporate events, I worked closely with marketing teams and wrote a number of articles, all of which required high levels of attention to detail and microscopic proof reading to ensure that everything was ready to be made public. In my short coding career to date, it is clear that this is a skill that will be vitally important when putting together programmes.
-
 ## Education
-
-#### Makers Academy (November 2020 to March 2021)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
 #### University of Southampton (2014 to 2015)
 
@@ -64,7 +84,9 @@ During my time in corporate events, I worked closely with marketing teams and wr
 - BA (Hons) in History
 - 2,1
 
-## Hobbies
+## Hobbies and interests
 
-- Football - I run a weekly 7 aside game amongst local friends in my area
+- Football - I run a weekly 5 aside game amongst local friends in my area
+- Running - I have surprised myself in 2021 by becoming a keen and mostly regular runner
+- Travelling - I have been lucky enough to visit 6 of the 7 continent and hope to see more of the world as soon as life allows.
 - Gaming - A keen gamer new to streaming and creating content on social channels

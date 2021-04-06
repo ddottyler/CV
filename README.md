@@ -24,10 +24,10 @@ During my time in corporate events, I worked closely with marketing teams and wr
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                                                             | Description       | Tech/tools        |
+| ---------------------------------------------------------------- | ----------------- | ----------------- |
+| [Sloth](https://github.com/ddottyler/Sloth-makers-group-project) | A webapp to do x. | React, Jest, etc. |
+| **Something else worked on**                                     | A webapp to do y. | Ruby              |
 
 ## Experience
 

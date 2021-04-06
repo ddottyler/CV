@@ -24,10 +24,16 @@ During my time in corporate events, I worked closely with marketing teams and wr
 
 ## Projects
 
-| Name                                                             | Description       | Tech/tools        |
-| ---------------------------------------------------------------- | ----------------- | ----------------- |
-| [Sloth](https://github.com/ddottyler/Sloth-makers-group-project) | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on**                                     | A webapp to do y. | Ruby              |
+| Name                                                                       | Description                                                                                                                                                | Tech/tools                      | Testing      |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------ |
+| [Sloth](https://github.com/ddottyler/Sloth-makers-group-project)           | A React Native and Expo mobile app to gamify step counting and encourage people to get off the sofa and stretch their legs!                                | JavaScript, React Native, Expo, |              |
+| [Acebook](https://github.com/ddottyler/acebook-makers-group-project)       | A Ruby on Rails team project to build a Facebook clone with continuous integration and deployment                                                          | Ruby Rails                      | Rspec        |
+| [Notes](https://github.com/ddottyler/Notes-App-with-emojis)                | A pure JavaScript single page web app that takes and displays notes, including emojis. The app uses no libraries and uses a custom built testing framework |                                 | Custom built |
+| [GildedRoseKata](https://github.com/ddottyler/GildedRose-Refactoring-Kata) |                                                                                                                                                            | Javascript                      | Jest         |
+
+A pure JavaScript single page web app that takes
+and displays notes, using no libraries and a custom
+built testing framework
 
 ## Experience
 

@@ -46,21 +46,13 @@ I completed a 12 week highly selective Software Development bootcamp (Jan 2021 -
 - Experience with MVC framework patterns
 - Independent learning and problem-solving
 
-Current Languages:
+Current Languages: Ruby, Rails, JavaScript, SEQUEL, HTML, CSS
 
-- Ruby, Rails, JavaScript, SEQUEL, HTML, CSS
+Frameworks/ Libraries used: Node.js, Express.js, Ruby on Rails, Sinatra, React, React Native
 
-Frameworks/ Libraries used:
+Databases: MongoDB, PostgreSQL
 
-- Node.js, Express.js, Ruby on Rails, Sinatra, React, React Native
-
-Databases:
-
-- MongoDB, PostgreSQL
-
-Testing Frameworks:
-
-- RSpec, Jasmine, Jest
+Testing Frameworks: RSpec, Jasmine, Jest
 
 **Clarion Events, Gaming** (Jan-2019 to December-2020)  
 _Senior Conference Producer_

@@ -1,5 +1,6 @@
 ## Dan Tyler
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/dan-tyler-97296990/)
 I am on course to become a full stake Ruby developer and am currently learning the fundamentals of software development with Makers Academy.
 
 Having spent 5 years as a content producer in corporate events, I have recently transitioned to software development, determined to find a new challenge that would develop my personal and professional skills and open up new opportunities for the future.

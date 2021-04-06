@@ -22,7 +22,7 @@ I have worked in big and small organisations and have always found that the key 
 
 #### Attention to detail
 
-During my time in corporate events, I worked closely with marketing teams and wrote a number of articles, all of which required high levels of attention to detail and microscopic proof reading to ensure that everything was ready to be made public. In my short programming career to date, it is clear that this is a skill that will be vitally important for me when putting writing accurate and consistent code.
+During my time in corporate events, I worked closely with marketing teams and wrote a number of articles, all of which required high levels of attention to detail and microscopic proof reading to ensure that everything was ready to be made public. In my short programming career to date, it is clear that this is a skill that will be vitally important for me when writing accurate and consistent code.
 
 ## Projects
 

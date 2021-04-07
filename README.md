@@ -38,7 +38,7 @@ To view more of my projects please see my Github: https://github.com/ddottyler
 
 **Makers Academy (Jan '21 - March '21)**
 
-I completed a 12 week highly selective Software Development bootcamp (Jan 2021 - Mar 2021)
+I completed a 12 week highly selective Software Development bootcamp
 
 - Full-stack web development
 - Test Driven Development, with a key emphasis on pair programming
@@ -54,14 +54,14 @@ Databases: MongoDB, PostgreSQL
 
 Testing Frameworks: RSpec, Jasmine, Jest
 
-**Clarion Events, Gaming** (Jan-2019 to December-2020)  
+**Clarion Events, Gaming** (Jan ‘19 – December ‘20)  
 _Senior Conference Producer_
 
 - Given responsibility of entire content strategy for North American events - including core flagship branded exhibitions and launch products.
 - Launched the divisions first digital events from concept to execution in under 4 weeks as global pandemic brought live events to a halt.
 - Experience of topic generation and validation working with external partners, including Morgan Stanley, to develop bespoke events.
 
-**SMi Group** (April-2016 to May-2018)  
+**SMi Group** (April '16 - May '18)  
 _Senior Conference Producer_
 
 - Given responsibility of the companies' key defence portfolio after 4 months in position - grew the portfolio from circa £1.25m to £1.5m in under 2 years.
@@ -70,13 +70,13 @@ _Senior Conference Producer_
 
 ## Education
 
-#### University of Southampton (2014 to 2015)
+#### University of Southampton ('14 - '15)
 
 - MA in History
 - MA with Merit
 - Awarded the Ian Karten Studentship
 
-#### University of Southampton (2011 to 2014)
+#### University of Southampton ('11 - '14)
 
 - BA (Hons) in History
 - 2,1

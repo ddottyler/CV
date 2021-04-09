@@ -1,7 +1,11 @@
-## Dan Tyler CV
+<h1 align="center">Dan Tyler</h1>
+
+<div align="center">
 
 [LinkedIn](https://www.linkedin.com/in/dan-tyler-97296990/)
 [Overview](#overview) | [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) 
+
+</div>
 
 ## Overview
 

@@ -20,7 +20,7 @@ I have recently completed an intensive 12 weeks bootcamp at Makers Academy and h
 
 #### Fast learner
 
-Makers was an intensive bootcamp with new languages and frameworks being introduced almost weekly. My ability to learn quickly was crucial and is highlighted above in my projects, such as having to learn React Native in just two weeks to complete our final project. I also undertook several external reviews through the Makers Academy to track my learning and these can be seen [here](https://drive.google.com/drive/folders/1YCXU7qQ-00xYIjbRS3MYh2gvCsNX4QDP).
+Makers was an intensive bootcamp with new languages and frameworks being introduced almost weekly. My ability to learn quickly was crucial and is highlighted above in my projects, such as having to learn React Native in just two weeks to complete our final project. I also undertook several external reviews during the Makers Academy to track my learning and these can be seen [here](https://drive.google.com/drive/folders/1YCXU7qQ-00xYIjbRS3MYh2gvCsNX4QDP).
 
 #### Team player
 

@@ -86,5 +86,4 @@ _Senior Conference Producer_
 
 - Football - I run a weekly 5 aside game amongst local friends in my area
 - Running - I have surprised myself in 2021 by becoming a keen and mostly regular runner
-- Travelling - I have been lucky enough to visit 6 of the 7 continents and hope to see more of the world as soon as life allows.
 - Gaming - A keen gamer new to streaming and creating content on social channels

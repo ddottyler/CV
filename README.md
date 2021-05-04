@@ -50,7 +50,7 @@ To view more of my projects please see my Github: https://github.com/ddottyler
 
 **Makers Academy (Jan '21 - March '21)**
 
-- Completed a highly selective Software Development bootcamp to become a full-stack web developer with expertise in object-oriented programming and MVC patterns. 
+- Completed a highly selective Software Development bootcamp to become a full-stack web developer with expertise in object-oriented programming, APIs, and MVC patterns. 
 - Experienced in Test Driven Development (TDD), with an emphasis on pairing, and database-driven development. 
 - Rapidly learnt the following languages in a short space of time: Ruby, Rails, JavaScript, SEQUEL, HTML, CSS. 
 - Course was heavily driven by self-led learning to gain proficiency in frameworks and libraries including: Node.js, Ruby on Rails, Sinatra, React Native, Rspec, Jasmine, Jest. 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/dan-tyler-97296990/)
+[LinkedIn](https://www.linkedin.com/in/dan-tyler-97296990/) | [Portfolio](https://ddottyler.github.io/portfolio-react)
 
 [Overview](#overview) | [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) 
 
@@ -10,11 +10,11 @@
 
 ## Overview
 
-I am a full-stack junior web developer looking for a role in where I can use my problem-solving skills and passion for technology to build things that make a difference. 
+I am a full-stack junior web developer looking for a role in where I can use my problem-solving skills and passion for technology to build things that make a difference.
 
 Having spent 4 years as a content producer in corporate events, I transitioned to software development in 2020, determined to find a new challenge which would still allow me to continue the development of my commercial, analytical and leadership skills.
 
-I have recently completed an intensive 12 weeks bootcamp at Makers Academy and have grown from an interested amateur coder into a confident junior developer competent in a variety of languages and frameworks.
+I have recently completed an intensive 12 weeks bootcamp at Makers Academy and have grown from an interested amateur coder into a confident junior developer competent in a variety of languages and frameworks. Since completing the course, I have begun learning python and swift whilst working on projects.
 
 ## Skills
 
@@ -41,6 +41,8 @@ Communication has always been at the forefront of my previous roles. That’s in
 | [Sloth](https://github.com/ddottyler/Sloth-makers-group-project)           | A group project that built a mobile app to gamify step counting and encourage people to get off the sofa and stretch their legs!                                         | JavaScript, React Native, Expo, InkScape, SecureStore | Jest, Cypress |
 | [Acebook](https://github.com/ddottyler/acebook-makers-group-project)       | A Ruby on Rails team project to build a Facebook clone with continuous integration and deployment                                                                        | Ruby, Rails, Postgres                                 | Rspec         |
 | [GildedRoseKata](https://github.com/ddottyler/GildedRose-Refactoring-Kata) | My take on a famous Kata (GildedRose) to practice OO design and TDD skills within the framework of a tech test that an employer might send you when applying for a role. | Javascript                                            | Jest          |
+| [Space Shooter](https://github.com/ddottyler/Pygame-space-shooter) | A simple locally run 2 player pygame application that I built while learning python. | Python, Pygame |
+
 
 To view more of my projects please see my Github: https://github.com/ddottyler
 

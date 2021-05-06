@@ -59,7 +59,7 @@ To view more of my projects please see my Github: https://github.com/ddottyler
 _Senior Conference Producer_
 
 - Leadership and planning were crucial as I was given responsibility of entire contire strategy for North American events - including core flagship exhibitions and product launches.
-- Used decision-making skills to launch the divisions first digital event from concept to execution in under a month as COVID-19 brought live events to a half delivering crucial revenue. 
+- Used decision-making skills to launch the divisions first digital event from concept to execution in under a month as COVID-19 brought live events to a halt delivering crucial revenue. 
 - Experience of topic generation and validation working with external partners, including Morgan Stanley, to develop bespoke events. 
 - Created industry communities through live events and the utilisation of social media channels. 
 

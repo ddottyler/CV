@@ -88,4 +88,3 @@ _Senior Conference Producer_
 
 - Football - I run a weekly 5 aside game amongst local friends in my area
 - Running - I have surprised myself in 2021 by becoming a keen and mostly regular runner
-- Gaming - A keen gamer new to streaming and creating content on social channels

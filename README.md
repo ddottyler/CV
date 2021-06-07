@@ -73,13 +73,11 @@ _Senior Conference Producer_
 
 ## Education
 
-#### University of Southampton ('14 - '15)
+#### University of Southampton ('11 - '15)
 
 - MA in History
 - MA with Merit
 - Awarded the Ian Karten Studentship
-
-#### University of Southampton ('11 - '14)
 
 - BA (Hons) in History
 - 2,1
